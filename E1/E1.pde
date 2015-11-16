@@ -82,5 +82,5 @@ void mouseReleased(){
     grid[col+1][row] = (grid[col+1][row]) ? false : true;
     grid[col-1][row] = (grid[col-1][row]) ? false : true;
   }
-  
+   
 }
