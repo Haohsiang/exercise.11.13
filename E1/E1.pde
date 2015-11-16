@@ -29,7 +29,7 @@ void draw(){
   
 }
 
-void mouseReleased(){
+void mousePressed(){
   int col = mouseX/20;
   int row = mouseY/20;
   
